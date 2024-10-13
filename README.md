@@ -1,6 +1,6 @@
 # Homework 1 - ADM Course
 
-This repository contains the submission for the [first homework](http://aris.me/contents/teaching/data-mining-ds-2024/homeworks/homework1.pdf) of the [ADM course](http://aris.me/contents/teaching/data-mining-ds-2024/homeworks/homework1.pdf). The homework consists of tasks completed on HackerRank. 
+This repository contains the submission for the [first homework](http://aris.me/contents/teaching/data-mining-ds-2024/homeworks/homework1.pdf) of the [ADM course](http://aris.me/contents/teaching/data-mining-ds-2024/homeworks/homework1.pdf). The homework consists of tasks completed on [HackerRank](hackerrank.com). 
 
 ## Files
 
